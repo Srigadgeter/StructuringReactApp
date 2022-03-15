@@ -1,1 +1,1 @@
-# StructuringReactApp
+# Structuring the React App
